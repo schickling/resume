@@ -61,7 +61,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Johannes}{Schickling}{ \urlstyle{same}\url{http://schickling.me} \\
+\namesection{Johannes}{Schickling}{ \urlstyle{same}\url{www.schickling.me} \\
 \href{mailto:schickling.j@gmail.com}{schickling.j@gmail.com} | +49 176 3073 8252
 }
 
@@ -80,13 +80,14 @@
 \section{Education} 
 
 \subsection{KIT University}
-\descript{BS in Computer Science}
+\descript{B.Sc. in Computer Science}
 \location{Expected September 2014}
 Focus on Mathematics, \\
 Security \& Computer Graphics \\
 \sectionsep
 
-\subsection{Grammar School}
+\subsection{Vöhlin Gymnasium}
+\descript{High School Diploma}
 \location{Grad. March 2011 | Germany}
 Focus on Maths \& Physics \\
 \sectionsep
@@ -97,7 +98,6 @@ Focus on Maths \& Physics \\
 
 \section{Links} 
 Github:// \href{https://github.com/schickling}{\bf schickling} \\
-Stackoverflow://  \href{http://stackoverflow.com/users/2418739/schickling}{\bf schickling} \\
 Twitter://  \href{https://twitter.com/_schickling}{\bf @\_schickling} \\
 LinkedIn://  \href{https://www.linkedin.com/in/schickling}{\bf schickling} \\
 \sectionsep
@@ -168,7 +168,7 @@ AWS \textbullet{} Integration testing platforms
 \location{June 2012 – now | Memmingen, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item \href{https://sub2home.com}{sub2home} is an online delivery service platform for SUBWAY restaurants
+\item \href{https://sub2home.com}{sub2home} is an online delivery service platform for SUBWAY\textsuperscript{\textregistered} restaurants
 \item Responsibilities: Architecture, Development, Mainainance, Deployment
 \item Created several Backbone and Angular based web applications
 \item Wrote a RESTful service oriented backend system
@@ -201,12 +201,12 @@ AWS \textbullet{} Integration testing platforms
 
 \section{Articles I wrote}
 \href{http://code.tutsplus.com/tutorials/gulp-as-a-development-web-server--cms-20903}{\runsubsection{Gulp as a Development Web Server}} \\
-\location{Apr 2014 | Tuts+}
-In this tutorial, I explain how to use Gulp.js, in order to run a local web server with built-in, livereload support.
+\location{Apr 2014 | Tuts+ | \href{http://code.tutsplus.com/}{code.tutsplus.com}}
+In this tutorial, I explain how to use Gulp.js in order to run a local web server with built-in, livereload support.
 \sectionsep
 
 \href{http://code.tutsplus.com/tutorials/deploying-a-laravel-application-using-capistrano--net-35685}{\runsubsection{Deploying an Application Using Capistrano}} \\
-\location{Nov 2013 | Tuts+}
+\location{Nov 2013 | Tuts+ | \href{http://code.tutsplus.com/}{code.tutsplus.com}}
 This article shows how to use Capistrano to deploy any kind of (backend) application.
 \sectionsep
 
