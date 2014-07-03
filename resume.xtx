@@ -114,14 +114,14 @@ Applications
 \sectionsep
 
 \subsection{Class projects}
-Mobile Development (iOS) \\
+Multidimensional Data Structures \\
 Algorithms in Javascript \\
 Algebra \& Number Theory \\
-Multidimensional Datastructures \\
+Computer Graphics \& Geometry \\
 Operating Systems \\
 Functional Programming \\
-Computer Graphics \& Geometry \\
-Inovative business concepts \\
+Mobile Development (iOS) \\
+Innovative business concepts \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -168,10 +168,10 @@ AWS \textbullet{} Integration testing platforms
 \location{June 2012 – now | Memmingen, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Full stack technical responsibility
-\item Architecture, Development, Mainainance, Deployment
+\item \href{https://sub2home.com}{sub2home} is an online delivery service platform for SUBWAY restaurants
+\item Responsibilities: Architecture, Development, Mainainance, Deployment
 \item Created several Backbone and Angular based web applications
-\item Wrote a RESTful service oriented backend server
+\item Wrote a RESTful service oriented backend system
 \end{tightemize}
 \sectionsep
 
@@ -179,10 +179,9 @@ AWS \textbullet{} Integration testing platforms
 \descript{| Mobile Software Engineer }
 \location{Apr 2014 – Aug 2014 | Karlsruhe, Germany}
 \begin{tightemize}
-\item Created multiple cross-platform applications based on Cordova and Angular
-\item Research and evaluation for the use of iBeacons
-\item iBeacon cordova plugin
-\item Projects were sheduled in a scrum workflow
+\item Developed a cross-platform framework for iBeacons
+\item Created multiple mobile applications based on Cordova and Angular
+\item Research and evaluation of radio beacon usage
 \end{tightemize}
 \sectionsep
 
@@ -190,9 +189,9 @@ AWS \textbullet{} Integration testing platforms
 \descript{| Author \& Project Maintainer }
 \location{2010 – now | world-wide }
 \begin{tightemize}
-\item Laravel packages
-\item Javascript packages
-\item Documenation for projects like boot2docker
+\item Author of highly used packages and plugins
+\item Contributor and collaborator in many open source frameworks
+\item Wrote documentation for projects like boot2docker
 \end{tightemize}
 \sectionsep
 
