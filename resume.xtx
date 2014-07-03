@@ -163,18 +163,18 @@ AWS \textbullet{} Integration testing platforms
 
 \section{Experience}
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{Expected June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{sub2home}
+\descript{| Co-founder \& CTO }
+\location{June 2012 – now | Memmingen, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{Mobilion}
+\descript{| Mobile Software Engineer }
+\location{Apr 2014 – Aug 2014 | Karlsruhe, Germany}
 \begin{tightemize}
 \item Worked on the YouTube Captions team in primarily vanilla Javascript and Python to plan, design and develop the full stack implementation of a new framework to add and edit Automatic Speech Recognition captions.
 \item Created a backbone.js-like framework for the Captions editor.
@@ -182,9 +182,9 @@ AWS \textbullet{} Integration testing platforms
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{Open Source}
+\descript{| Author \& Project Maintainer }
+\location{Mar 2012 – now | world-wide }
 \begin{tightemize}
 \item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
 \item I created the Meme generator, the entire Lipsum application, ported Tokens to different apps, fixed many bugs and more in PHP and Shell.
@@ -193,50 +193,41 @@ AWS \textbullet{} Integration testing platforms
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%     ARTICLES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Head Undergrad Research}
-\location{Jan 2014 – Present | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  Publication submitted.
+\section{Articles}
+\href{http://code.tutsplus.com/tutorials/gulp-as-a-development-web-server--cms-20903}{\runsubsection{Gulp as a Development Web Server}} \\
+\location{Apr 2014 | Tuts+}
+In this tutorial, I explain how to use Gulp.js, in order to run a local web server with built-in, livereload support.
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
+\href{http://code.tutsplus.com/tutorials/deploying-a-laravel-application-using-capistrano--net-35685}{\runsubsection{Deploying an Application Using Capistrano}} \\
+\location{Nov 2013 | Tuts+}
+This article shows how to use Capistrano to deploy any kind of (backend) application.
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TALKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Talks \& Workshops}
+\begin{tabular}{rll}
+2014	& Coffeetablecoders   & Docker - a platform for distributed applications \\
+2014  & DevCamp Karlsruhe   & Getting started with Docker in 45 minutes \\
+2013  & KarlsruheJS         & Javascript Development Workflow \\
+\end{tabular}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{Awards \& Certificates}
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 2\textsuperscript{nd} most points  & Google Code Jam, Qualification Round\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-2010     & National & Comp. Soc. of India's National Programming Contest\\
-\end{tabular}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SOCIETIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Societies} 
-
-\begin{tabular}{rll}
-2014 	& top 12\%ile    & Tau Beta Pi Engineering Honor Society\\
-2014   & National   & The Global Leadership and Education Forum (tGELF)\\
-2012   &  National  & Golden Key International Honor Society\\
-2012   &  National   & National Society of Collegiate Scholars\\
+2013  & Certificate                  & Business Plan Workshop \\
+2013  & Certificate                  & Scrum \& Agile Development Workshop (SAP) \\
+2012  & 1\textsuperscript{st} prize  & Techcrunch Disrupt NY \\
 \end{tabular}
 \sectionsep
 
