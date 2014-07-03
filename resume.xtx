@@ -189,7 +189,7 @@ AWS \textbullet{} Integration testing platforms
 \descript{| Author \& Project Maintainer }
 \location{2010 – now | world-wide }
 \begin{tightemize}
-\item Author of highly used packages and plugins
+\item Author of highly used packages and plugins (> 10k downloads)
 \item Contributor and collaborator in many open source frameworks
 \item Wrote documentation for projects like boot2docker
 \end{tightemize}
@@ -199,7 +199,7 @@ AWS \textbullet{} Integration testing platforms
 %     ARTICLES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Articles}
+\section{Articles I wrote}
 \href{http://code.tutsplus.com/tutorials/gulp-as-a-development-web-server--cms-20903}{\runsubsection{Gulp as a Development Web Server}} \\
 \location{Apr 2014 | Tuts+}
 In this tutorial, I explain how to use Gulp.js, in order to run a local web server with built-in, livereload support.
@@ -214,7 +214,7 @@ This article shows how to use Capistrano to deploy any kind of (backend) applica
 %     TALKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Talks \& Workshops}
+\section{Talks \& Workshops I held}
 \begin{tabular}{rll}
 2014	& Coffeetablecoders   & Docker - a platform for distributed applications \\
 2014  & DevCamp Karlsruhe   & Getting started with Docker in 45 minutes \\
@@ -232,6 +232,18 @@ This article shows how to use Capistrano to deploy any kind of (backend) applica
 2013  & Certificate                  & Scrum \& Agile Development Workshop (SAP) \\
 2012  & 1\textsuperscript{st} prize  & Techcrunch Disrupt NY \\
 \end{tabular}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ADDITIONAL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Additional}
+\location{Languages:}
+German {\small(native speaker)} \textbullet{} English {\small(fluent)} \textbullet{} French {\small(basics)} \textbullet{} Spanish {\small(basics)} \\
+\sectionsep
+\location{Leisure Activities:}
+Music \textbullet{} DJing \textbullet{} Gym \textbullet{} Skateboarding \textbullet{} Longboarding \textbullet{} Reading
 \sectionsep
 
 \end{minipage} 
