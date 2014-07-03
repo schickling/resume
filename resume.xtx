@@ -115,12 +115,12 @@ Applications
 
 \subsection{Class projects}
 Mobile Development (iOS) \\
+Algorithms in Javascript \\
 Algebra \& Number Theory \\
 Multidimensional Datastructures \\
 Operating Systems \\
 Functional Programming \\
 Computer Graphics \& Geometry \\
-Webengineering \\
 Inovative business concepts \\
 \sectionsep
 
@@ -131,7 +131,7 @@ Inovative business concepts \\
 \section{Skills}
 \subsection{Programming}
 \location{Most experience:}
-JavaScript \textbullet{} PHP \\
+Javascript \textbullet{} PHP \\
 \location{Solid knowledge:}
 C/C++ \textbullet{} Java \textbullet{} Ruby \textbullet{} Shell \\
 Haskell \textbullet{} SQL \textbullet{} HTML/CSS \\
@@ -181,6 +181,7 @@ AWS \textbullet{} Integration testing platforms
 \begin{tightemize}
 \item Created multiple cross-platform applications based on Cordova and Angular
 \item Research and evaluation for the use of iBeacons
+\item iBeacon cordova plugin
 \item Projects were sheduled in a scrum workflow
 \end{tightemize}
 \sectionsep
