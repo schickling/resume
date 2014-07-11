@@ -169,7 +169,7 @@ AWS \textbullet{} Integration testing platforms
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item \href{https://sub2home.com}{sub2home} is an online delivery service platform for SUBWAY\textsuperscript{\textregistered} restaurants
-\item Responsibilities: Architecture, Development, Mainainance, Deployment
+\item Responsibilities: Architecture, Development, Maintenance, Deployment
 \item Created several Backbone and Angular based web applications
 \item Wrote a RESTful service oriented backend system
 \end{tightemize}
