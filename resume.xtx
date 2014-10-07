@@ -116,7 +116,7 @@ Applications
 \subsection{Class projects}
 Virtual Reality \\
 Multidimensional Data Structures \\
-Algorithms in Javascript \\
+Algorithms in JavaScript \\
 Algebra \& Number Theory \\
 Computer Graphics \& Geometry \\
 Operating Systems \\
@@ -131,7 +131,7 @@ Mobile Development (iOS) \\
 \section{Skills}
 \subsection{Programming}
 \location{Most experience:}
-Javascript \textbullet{} PHP \\
+JavaScript \textbullet{} PHP \\
 \location{Solid knowledge:}
 C/C++ \textbullet{} Java \textbullet{} Ruby \textbullet{} Shell \\
 Haskell \textbullet{} SQL \textbullet{} HTML/CSS \\
@@ -218,7 +218,7 @@ This article shows how to use Capistrano to deploy any kind of (backend) applica
 \begin{tabular}{rll}
 2014	& Coffeetablecoders   & Docker - a platform for distributed applications \\
 2014  & DevCamp Karlsruhe   & Getting started with Docker in 45 minutes \\
-2013  & KarlsruheJS         & Javascript Development Workflow \\
+2013  & KarlsruheJS         & JavaScript Development Workflow \\
 \end{tabular}
 \sectionsep
 
