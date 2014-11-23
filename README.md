@@ -5,10 +5,10 @@ Tex sources and pdf of my CV. Based on [this awesome template](https://github.co
 
 ## View
 
-[Link](http://schickling.me/resume/resume.pdf)
+[Display as PDF](http://schickling.me/resume/resume.pdf)
 
 ## Compile
 
 ```sh
-$ xelatex resume.xtx 
+$ make
 ```
